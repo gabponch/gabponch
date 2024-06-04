@@ -1,5 +1,5 @@
 ### olá! 
-:)
+🌱
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=gabponch"/>
